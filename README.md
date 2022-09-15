@@ -1,5 +1,9 @@
 ### Spring CQRS and Event Sourcing microservice example 👋‍💫✨
 
+
+## Topics
+*java docker kafka cqrs spring mongodb ddd grafana postgresql swagger event-sourcing prometheus clean-architecture flyway eventsourcing cqrs-es jaeger resilience4j event-sourcing-and-cqrs
+
 #### 👨‍💻 Full list what has been used:
 * [Spring](https://spring.io/) - Java Spring
 * [Spring Data JPA](https://spring.io/projects/spring-data-jpa) - data access layer
