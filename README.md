@@ -2,7 +2,7 @@
 
 
 ## Topics
-*java docker kafka cqrs spring mongodb ddd grafana postgresql swagger event-sourcing prometheus clean-architecture flyway eventsourcing cqrs-es jaeger resilience4j event-sourcing-and-cqrs
+* java docker kafka cqrs spring mongodb ddd grafana postgresql swagger event-sourcing prometheus clean-architecture flyway eventsourcing cqrs-es jaeger resilience4j event-sourcing-and-cqrs
 
 #### 👨‍💻 Full list what has been used:
 * [Spring](https://spring.io/) - Java Spring
